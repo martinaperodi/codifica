@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Questa è una riga di commento
+i miei dati:
+nome del file : esercizio2.xml
+autrice: Martina Perodi
+data: 24/05/2024 
+ORA SCRIVO UN CODICE ANNIDATO NON CORRETTO, POI PROVO A CORREGGERLO-->
+
+
+<!-- così mi dà errore: lo correggo
+<radice>
+<nonna>
+    <madre>
+    </madre>
+
+    <figlia>
+
+</radice> -->
+
+
+
+<radice>
+<nonna>
+    <madre>
+        <figlia />
+    </madre>
+</nonna>
+</radice>
+<!-- ora è giusto -->
