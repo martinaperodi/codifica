@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Inserire all’interno di un tag un frammento di codice HTML -->
+
+
+<radice>
+        <htmlCod><![CDATA[
+            <div class="testo">
+                <h1>Titolo</h1>
+                <h3>Titolo ma più piccolo</h3>
+                <p>Questo invece è un paragrafo in html</p>
+            </div>
+        ]]></htmlCod>
+    </radice>
