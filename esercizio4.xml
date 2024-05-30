@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="tei-lite.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<!-- Marcare un testo plain text di circa 3000 caratteri a piacere. -->
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> I promessi sposi : versione online </title>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> I promessi sposi </title>
+                    <author> Alessandro Manzoni </author>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+        <div n="ch1" type="chapter">
+            <pb n="1" /> 
+            <head> Capitolo Uno </head>
+            <p>Quel ramo del lago di Como, che volge a mezzogiorno, tra due catene non interrotte di monti, tutto a seni e a golfi, 
+            a seconda dello sporgere e del rientrare di quelli, vien, quasi a un tratto, a restringersi, e a prender corso e 
+            figura di fiume, tra un promontorio a destra, e un'ampia costiera dall'altra parte; e il ponte, che ivi congiunge le 
+            due rive, par quasi un proseguimento e il punto di congiunzione delle due catene, che, facendo dell'arco a monte, van 
+            quasi a fondo a rincontrarsi e a chiudere quel passo, e quindi il ponte. Le due rive qui sono per gran tratto assai 
+            vicine e strette: e il fiume, benché resti sempre largo, non di meno piglia il nome di Adda, fino al capo di Lecco, 
+            dove si apre e distende in un nuovo lago; onde la strada che costeggia il lago di Como, e che fa da Colico a Lecco, fu 
+            l'oggetto della più bella e gioconda veduta, quanto all'utile e al diportarsi in viaggio, fino all'epoca della 
+            costruzione della via d'acqua, detta dello Stelvio, e della carrozzabile, che da Bergamo, e da Milano, s'aprono all'uno 
+            e all'altro passo di quelle Alpi. Questa strada, ai tempi in cui accaddero i fatti che andiamo a raccontare, era ben 
+            più lunga e malagevole di ora, e tutta a salite e discese, per monti scabrosi e per dirupi inaccessibili. Non essendo 
+            ancora aperta la via delle gallerie e dei bastioni, né in tanti altri luoghi praticata l'arte di raddrizzare e ridurre 
+            a piano e ad agio il cammino; ma si camminava per quelle stradette, che or si sporgono or si rientrano tra i monti, che 
+            la natura vi aveva lasciate, o che gli uomini avevano aiutato a formare qua e là, più per necessità, che per comodo e 
+            per bellezza. A riscontro di quell'altezza, dove i monti s'allontanano un poco dal lago e lasciano libero un tratto di terra 
+            piano, v'è, e v'era anche allora, un paese, il quale, benché non abbia altro che il nome di paesello, ha nondimeno un numero 
+            d'abitanti abbastanza grande, da essere distinto, e un po' superiore agli altri, delle cui poche case sparse, di qua e di là, 
+            poco si distingue in una veduta generale; e quel paesello è, ed era anche allora, nominato in tutta la contrada. In questo paesello, 
+            di cui si sono conservati pochi monumenti antichi, poche memorie certe, poiché i tempi moderni hanno introdotto abitudini e usi 
+            nuovi, e cambiato le facce delle cose e delle persone; in questo paesello, dico, accaddero gli avvenimenti straordinari che ci 
+            proponiamo di raccontare.</p>
+
+            <p>Lungo la strada, che da questo paesello metteva al lago, v'era una casetta, la quale, benché modesta e di poco aspetto, dava a 
+            chi la vedeva indizio di una certa agiatezza, dovuta più al risparmio e alla laboriosità degli abitatori, che non al caso, o 
+            all'opulenza, o a quel capriccio della fortuna, che tanto raramente ha collocato i suoi favori in quelle contrade. I suoi abitanti, 
+            che poco si conoscevano nella parrocchia, se non per quella modesta casetta e per il nome di Agnese e di Lucia, di una agiata vedova, 
+            e di sua figlia, tanto più bella quanto più onesta, erano nondimeno assai noti, e in grande considerazione per il loro buon nome e per 
+            la loro cristiana condotta. In questa casetta si sarebbe dovuto celebrare un matrimonio, da tanto tempo accordato, e tanto più caro agli 
+            sposi, quanto che, per certe traversie domestiche, era stato differito e ritardato fino allora.</p>
+
+            <p>A tal'uopo, il parroco del paese, don Abbondio, aveva già fissato il giorno, e fatto le pubblicazioni: e, per essere quella casa sulla 
+            strada maestra, il buon vecchio ci capitava spesso, in ore e in giorni diversi, per ritirarsi là, ora a dire le preghiere, ora a riposarsi 
+            un poco dalle fatiche parrocchiali, ed ora anche a prendere qualche ristoro, che la buona donna Agnese, benché non facesse professione d'oste, 
+            sapeva nondimeno offrir con un'ospitalità così schietta e cordiale, da far ritornar volentieri, e spesso, chi una volta era capitato in 
+            quella casetta.</p>
+
+            <p>Ma, poiché ogni cosa è soggetta a mille vicende e accidenti, e tutto quello che accade su questa terra, se non è troncato di colpo, ha 
+            il suo tempo di nascimento, di crescenza e di maturazione, e spesso di decadenza e di rovina, non aveva a esser quella volta risparmiata 
+            una tal casetta, un tale matrimonio, e quegli abitanti, da queste leggi generali e necessarie delle umane sorti.</p>
+        </div>
+        </body>
+    </text>
+
+</TEI>
